@@ -2,7 +2,7 @@
 
 ## 基础
 
-- 01 [初识 Go]()
+- 01 [初识 Go](https://github.com/acloudnet/letsgo/blob/main/doc/base/%E5%88%9D%E8%AF%86.md)
 
 
 
